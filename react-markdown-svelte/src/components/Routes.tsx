@@ -3,7 +3,7 @@ import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Header";
 import FigmaTutorial from "./Tutorial";
 import Notes from "./Notes";
-import PresentationPage from "./Presentation";
+import PresentationPage from "./Presentation"; 
 import "./Home.css";
 
 // Home page component
@@ -33,7 +33,7 @@ const AppRoutes: React.FC = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/Presentation" element={<PresentationPage />} />
+        <Route path="/Presentation" element={<PresentationPage />} /> 
         <Route path="/Tutorial" element={<FigmaTutorial />} />
         <Route path="/Supporting" element={<Notes />} />
       </Routes>
