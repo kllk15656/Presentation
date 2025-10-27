@@ -9,7 +9,7 @@ import "./Home.css";
 // Home page component
 const Home: React.FC = () => (
   <div className="home">
-    <img src="/welcomewebsite.png" alt="Home" className="center-image" />
+    <img src="welcomewebsite.png" alt="Home" className="center-image" />
     <p>
       Figma is a browser-based design and prototype tool used for UI/UX design,
       web, and application interfaces, and allows project collaboration.
@@ -17,11 +17,16 @@ const Home: React.FC = () => (
     <div className="fun-fact-box">
       <h3>💡 Fun Fact</h3>
       <p>The Welcome message was created by the Figma design Feature!</p>
-      <img src="/Design.png" alt="Fun fact illustration" className="fun-fact-image" />
+      <img
+        src="Design.png"
+        alt="Fun fact illustration"
+        className="fun-fact-image"
+      />
     </div>
   </div>
 );
 
+// Main App Routes
 const AppRoutes: React.FC = () => {
   return (
     <Router>
