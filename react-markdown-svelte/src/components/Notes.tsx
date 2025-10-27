@@ -16,7 +16,7 @@ const Note: React.FC = () => {
     <div>
       {/* Page title — displayed above the markdown content */}
         <img
-        src="/figmanotes.png"
+        src="/figma-notes.png"
         alt="Figma Presentation"
         className="center-image"
       />
