@@ -15,11 +15,8 @@ const Note: React.FC = () => {
     // This is the main container for the tutorial page content
     <div>
       {/* Page title — displayed above the markdown content */}
-        <img
-        src="/figma-notes.png"
-        alt="Figma Presentation"
-        className="center-image"
-      />
+            <img src="figmanotes.png" alt="Home" className="center-image" />
+
 
       {/* The MarkdownPage component takes a 'content' prop which is the Markdown text.
           Here we pass in the raw content imported from Notes.md */}

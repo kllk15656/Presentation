@@ -9,11 +9,8 @@ const Presentation: React.FC = () => {
     <div>
 
       {/* Page title — displayed above the markdown content */}
-      <img
-        src="/figmapresentation.png"
-        alt="Figma PResentation"
-        className="center-image"
-      />
+          <img src="figmapresentation.png" alt="Home" className="center-image" />
+
 
       {/* Markdown content from Presentation.md */}
       <MarkdownPage content={FigmaPresentation} />
