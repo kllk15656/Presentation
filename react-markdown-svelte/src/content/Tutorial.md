@@ -6,7 +6,7 @@ This tutorial provides a step-by-step guide on how to use Figma’s core feature
 
 In the main Figma dashboard, click on the ‘Design’ button to create a new design file.
 
-![Figma Design](Presentation/tutorial-images/tutorial-img1.jpg)
+![Figma Design](../Presentation/tutorial-images/tutorial-img1.jpg)
 
 
 
@@ -14,11 +14,11 @@ In the main Figma dashboard, click on the ‘Design’ button to create a new de
 
 This will take you to the canvas. Within the design tools panel, add a frame and select your preferred screen size within the properties panel.
 
-![Figma Canvas](./Presentation/tutorial-images/tutorial-img2.jpg)  
+![Figma Canvas](../Presentation/tutorial-images/tutorial-img2.jpg)  
 
-![Figma Add Frame](Presentation/tutorial-images/tutorial-img3.jpg)  
+![Figma Add Frame](../Presentation/tutorial-images/tutorial-img3.jpg)  
 
-![Figma Frame Selection](Presentation/tutorial-images/tutorial-img4.jpg)
+![Figma Frame Selection](../Presentation/tutorial-images/tutorial-img4.jpg)
 
 ### Step 3
 
@@ -49,25 +49,25 @@ Press Ctrl+Shift+K to insert your image and click ‘Place all’ to add them to
 
 *Tip: It's useful to keep your components within their own frame separate from your wireframes.*
 
-![Add Image](Presentation/tutorial-images/tutorial-img5.jpg)  
+![Add Image](../Presentation/tutorial-images/tutorial-img5.jpg)  
 
-![Place All Images](Presentation/tutorial-images/tutorial-img6.jpg)
+![Place All Images](../Presentation/tutorial-images/tutorial-img6.jpg)
 
 ### Step 2
 
 Make sure all items are selected within the ‘Layers’ tab.
 
-![Layers Tab](Presentation/tutorial-images/tutorial-img7.jpg)
+![Layers Tab](../Presentation/tutorial-images/tutorial-img7.jpg)
 
 Then within the properties tab, click on the ellipsis and select ‘Create multiple components.’
 
-![Layers Tab](Presentation/tutorial-images/tutorial-img8.jpg)
+![Layers Tab](../Presentation/tutorial-images/tutorial-img8.jpg)
 
 ### Step 3
 
 To make your components responsive to different screen sizes, enable ‘Auto Layout’ by pressing Shift + A or clicking ‘Auto Layout’ (make sure all your components are selected). This will group all icons into a single parent container.
 
-![Layers Tab](Presentation/tutorial-images/tutorial-img9.jpg)
+![Layers Tab](../Presentation/tutorial-images/tutorial-img9.jpg)
 
 ### Step 4
 
@@ -78,14 +78,13 @@ Next, you can set the layout properties for the component's frame. By setting th
 - Alignment: Centre (click the middle block)  
 - Padding: 36  
 
-![Layers Tab](Presentation/tutorial-images/tutorial-img10.jpg)  
+![Layers Tab](../Presentation/tutorial-images/tutorial-img10.jpg)  
 
-![Layers Tab](Presentation/tutorial-images/tutorial-img11.jpg)
+![Layers Tab](../Presentation/tutorial-images/tutorial-img11.jpg)
 
 *Tip: You can change the order of your icon by double clicking and using the arrow buttons on your keyboard
 
 ## Youtube Tutorial
-
 Watch our wireframing tutorial using Figma [here!](https://youtu.be/owvuJGOHhcA)
 
 [![Wireframing Tutorial](https://img.youtube.com/vi/owvuJGOHhcA/0.jpg)](https://youtu.be/owvuJGOHhcA)
