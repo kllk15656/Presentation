@@ -6,19 +6,15 @@ This tutorial provides a step-by-step guide on how to use Figma’s core feature
 
 In the main Figma dashboard, click on the ‘Design’ button to create a new design file.
 
-Step by step guide to using Figma for design.  
-
 ![Figma Design](Presentation/tutorial-images/tutorial-img1.jpg)
 
-1. Create a new file  
-2. Add frames and components  
-3. Export your designs  
+
 
 ### Step 2
 
 This will take you to the canvas. Within the design tools panel, add a frame and select your preferred screen size within the properties panel.
 
-![Figma Canvas](Presentation/tutorial-images/tutorial-img2.jpg)  
+![Figma Canvas](./Presentation/tutorial-images/tutorial-img2.jpg)  
 
 ![Figma Add Frame](Presentation/tutorial-images/tutorial-img3.jpg)  
 
@@ -26,20 +22,20 @@ This will take you to the canvas. Within the design tools panel, add a frame and
 
 ### Step 3
 
-You can now explore adding elements to your design file. Within the Design Tools, you can include:
-- Text  
-- Shapes  
-- Vectors  
-- Drawings  
+Explore adding items to your wireframes. In the Design Tools you can add:
+-	Text
+-	Shapes
+-	Vectors
+Then, in the properties panel you can adjust:
+-	Position
+-	Layout
+-	Typography
+-	Appearance
+-	Fill colour
+-	Stroke
+-	Effects
 
-Then, using the properties panel you can adjust:
-- Position  
-- Layout  
-- Typography  
-- Appearance  
-- Colour  
-- Stroke  
-- Effects  
+
 
 ## Part 2: Setting up main components
 
@@ -86,7 +82,7 @@ Next, you can set the layout properties for the component's frame. By setting th
 
 ![Layers Tab](Presentation/tutorial-images/tutorial-img11.jpg)
 
-*Tip: You can change the order of your*
+*Tip: You can change the order of your icon by double clicking and using the arrow buttons on your keyboard
 
 ## Youtube Tutorial
 
