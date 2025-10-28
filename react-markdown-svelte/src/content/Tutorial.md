@@ -59,4 +59,22 @@ To make your components responsive to different screen sizes, enable ‘Auto Lay
 ![Layers Tab](/Presentation/tutorial-images/tutorial-img9.jpg)
 
 ### Step 4
-Next, you can set the layout properties for the component's frame. By setting the Gap to Auto, the spacing will automatically adjust whenever the size
+Next, you can set the layout properties for the component's frame. By setting the Gap to Auto, the spacing will automatically adjust whenever the size. 
+
+## Step 5
+After creating variants, you can add ‘interactions’ which will take effect in the prototype. In ‘Prototype mode’, select the first variant (unchecked), hover over the checkbox until the blue + appears, and drag it to the second variant. This will create a connection and allow you to set transition properties.
+
+![Components](/Presentation/tutorial-images/tutorial-img25.jpg)
+
+![Components](/Presentation/tutorial-images/tutorial-img26.jpg)
+
+## Step 6
+Now, when placing an instance of the checkbox component into the wireframes, you can easily select which state to include in your design.
+
+![Components](/Presentation/tutorial-images/tutorial-img27.jpg)
+
+## Wireframe Tutorial
+
+Watch our wireframing tutorial using Figma [here!](https://youtu.be/owvuJGOHhcA)
+
+[![Wireframing Tutorial](https://img.youtube.com/vi/owvuJGOHhcA/0.jpg)](https://youtu.be/owvuJGOHhcA)
