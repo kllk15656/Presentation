@@ -8,7 +8,9 @@ In the main Figma dashboard, click on the ‘Design’ button to create a new de
 
 ![Figma Design](../Presentation/tutorial-images/tutorial-img1.jpg)
 
-### Step 2
+
+
+### Step### Step 2
 
 This will take you to the canvas. Within the design tools panel, add a frame and select your preferred screen size within the properties panel.
 
@@ -161,8 +163,6 @@ Now, when placing an instance of the checkbox component into the wireframes, you
 
 ![UncheckedBox](../Presentation/tutorial-images/tutorial-img26.jpg)
 
-
-## Youtube Tutorial
-Watch our wireframing tutorial using Figma [here!](https://youtu.be/owvuJGOHhcA)
+.be/owvuJGOHhcA)
 
 [![Wireframing Tutorial](https://img.youtube.com/vi/owvuJGOHhcA/0.jpg)](https://youtu.be/owvuJGOHhcA)
