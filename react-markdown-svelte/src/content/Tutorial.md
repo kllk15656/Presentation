@@ -163,6 +163,6 @@ Now, when placing an instance of the checkbox component into the wireframes, you
 
 ![UncheckedBox](../Presentation/tutorial-images/tutorial-img26.jpg)
 
-.be/owvuJGOHhcA)
+## Wireframe Tutorial
 
 [![Wireframing Tutorial](https://img.youtube.com/vi/owvuJGOHhcA/0.jpg)](https://youtu.be/owvuJGOHhcA)
